@@ -1,6 +1,6 @@
 # devin_smaple
 
-A minimal Python "Hello World" web stack built with Flask.
+A minimal Python "Hello World" web stack built with Flask for sample devin check.
 
 ## Setup
 
